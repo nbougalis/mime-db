@@ -1488,7 +1488,7 @@
     "source": "iana"
   },
   "application/toml": {
-    "compressible": true
+    "compressible": true,
     "extensions": ["toml"]
   },
   "application/trickle-ice-sdpfrag": {
