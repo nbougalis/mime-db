@@ -170,7 +170,7 @@
       "https://github.com/toml-lang/toml"
     ],
     "compressible": true
-  }
+  },
   "application/vnd.android.package-archive": {
     "compressible": false
   },
